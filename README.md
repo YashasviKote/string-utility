@@ -1,4 +1,4 @@
-# String Utility App – Day 4
+# String Utility
 
 ## Features
 - Reverse string
@@ -11,9 +11,3 @@
 - CSS
 - JavaScript
 - Java
-
-## Concepts Learned
-- String traversal
-- Character comparison
-- Loops
-- Java vs JavaScript string handling
