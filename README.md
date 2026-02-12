@@ -1,2 +1,19 @@
-# string-utility
-A simple String Utility Application built using Java and JavaScript that performs reverse, palindrome check, vowel count, and length calculation while demonstrating core string manipulation concepts.
+# String Utility App – Day 4
+
+## Features
+- Reverse string
+- Palindrome check
+- Vowel count
+- String length
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- Java
+
+## Concepts Learned
+- String traversal
+- Character comparison
+- Loops
+- Java vs JavaScript string handling
